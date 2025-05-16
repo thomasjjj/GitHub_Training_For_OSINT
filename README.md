@@ -4,8 +4,6 @@ This project is designed to be a **template and starting point** for anyone feel
 
 My main motivation for creating this is pretty simple: I want to get better at using GitHub (and coding in general) in a more **collaborative** way. Rather than quietly reading tutorials and tinkering on my own, I thought it would be more useful—and honestly, more fun—to take the FOSS (Free and Open Source Software) approach and make my entire learning process open to everyone. This way, not only do I learn, but others can follow along, contribute, and share their own lessons and discoveries.
 
-## Index of training
-
 ## Course Contents
 
 ### 1. Orientation
