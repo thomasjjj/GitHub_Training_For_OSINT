@@ -1,4 +1,4 @@
-# Welcome to the GitHub OSINT Analyst Training Template
+# Welcome to the GitHub OSINT Analyst Training
 
 This project is designed to be a **template and starting point** for anyone feeling overwhelmed by the idea of learning to code or starting to use GitHub. If you’re an OSINT analyst, researcher, or investigator who’s skilled at finding information but hasn’t done much (or any) coding, you’re in exactly the right place.
 
